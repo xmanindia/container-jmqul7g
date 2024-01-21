@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "xmanindia",
+  "repo": "container-jmqul7g",
+  "name": "xmanindia",
+  "email": "xman.india@gmail.com",
+}
